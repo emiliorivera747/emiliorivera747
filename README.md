@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a startup, Trellis Money, to help people gain a clearer view of their finances.
-- 🌱 I’m currently learning Fast API and creating backend systems with Python.
+- I’m currently working on a startup, Trellis Money, to help people gain a clearer view of their finances.
+- I recently developed a portfolio with React.js, Next.js, and Supabase to showcase my work (https://github.com/emiliorivera747/portfolio). 
+- I’m currently learning Fast API and creating backend systems with Python.
+- 
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
