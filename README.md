@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I’m currently working on a startup, Trellis Money, to help people gain a clearer picture of their finances.
+- I’m currently working on a startup, Trellis Money, to help people gain a clearer picture of their finances (https://github.com/emiliorivera747/TrellisMoneyAWSPosgres)
 - I recently developed a portfolio with React.js, Next.js, and Supabase to showcase my work (https://github.com/emiliorivera747/portfolio). 
 - I’m currently learning Fast API and creating backend systems with Python.
 <!--- 👯 I’m looking to collaborate on ...
