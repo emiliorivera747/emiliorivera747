@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-
-**emiliorivera747/emiliorivera747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a startup, Trellis Money, to help people gain a clearer view of their finances.
 - 🌱 I’m currently learning Fast API and creating backend systems with Python.
 <!--- 👯 I’m looking to collaborate on ...
