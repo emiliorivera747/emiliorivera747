@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I’m currently working on a startup, Trellis Money, to help people gain a clearer picture of their finances [Trellis Money Website](https://www.trellismoney.com/). Managing your money shouldn't be expensive, so we're offering it for just $5 a month.
+- I’m currently working on a startup, Trellis Money, to help people gain a clearer picture of their finances [Trellis Money Website](https://www.trellismoney.com/), [Trellis Money Repository](https://github.com/emiliorivera747/TrellisMoneyAWSPosgres). Managing your money shouldn't be expensive, so we're offering it for just $5 a month.
 - I recently developed a portfolio with React.js, Next.js, and Supabase to showcase my work [Portfolio Repo](https://github.com/emiliorivera747/portfolio), [Portfolio Website](https://emilioulisesrivera.com/). 
 - I’m currently learning Fast API and creating backend systems with Python.
 -  📫 How to reach me: emiliorivera747@gmail.com
